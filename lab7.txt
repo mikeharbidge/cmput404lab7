@@ -1,0 +1,15 @@
+0: https://github.com/mikeharbidge/cmput404lab7
+
+1: Flask is a much more lightweight framework than Django, Django has many features available by default 
+such as ORM Databases, the MVT design pattern, better scalability and security.
+
+2: REST stands for Representational State Transfer, and is a design pattern for applications that use a client-server model.
+Restful systems normally use HTTP requests and are stateless, meaning the server should understand all requests without knowing the previous state of the client.
+
+3: CRUD stands for Create, Read, Update, Delete. The corresponding HTTP methods are POST, GET, PUT and DELETE respectively.
+
+4: 1xx: Continue sending request 2xx: Successful response 3xx: Redirect to different page 4xx: Client Errors 5xx: Server/Internal Errors
+
+5: XSS stands for cross-site scripting attack, where a user injects their own malicious code into a web application. An XSS vulnerability can be from not validating user input to a site.
+
+6: Cross-Origin resource sharing, you need to protect against this once you have multiple servers that can serve the same content
